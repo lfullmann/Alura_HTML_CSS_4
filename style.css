@@ -212,6 +212,9 @@ th {
 .itens:first-child {
   font-weight: bold;
 }
+.itens:before {
+  content: "🟊";
+}
 .imagem-beneficios {
   width: 60%;
 }
